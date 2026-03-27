@@ -1,0 +1,20 @@
+Equipo Trabajo
+Integrantes [4-5 personas]
+    -BA  1
+    -Des 2
+    -QA  2
+
+Desde Semana 3 - Semana 14, ver topicos de especialidad:
+
+PCi [50% 10-20min para marcar y 50% Proyecto codigo]
+P1 - TEORIA PARA EL PARCIAL
+P2 - TEORIA PARA EL PARCIAL
+P3 - TEORIA PARA FINAL
+P4 - TEORIA PARA FINAL
+P5 - EXPOSICIONES
+
+1 Equipo x Semana, escoge tema x semana segun silabus
+
+PP   1
+EP   1  teoria+PI
+EF   1  teoria+PI

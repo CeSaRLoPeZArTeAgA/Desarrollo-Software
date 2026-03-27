@@ -1,0 +1,23 @@
+1-a
+2-c
+3-a
+4-a
+5-b
+6-504
+7-b
+8-b
+9-d
+10-b
+11-a
+12-c
+13-2 (definicion contrato protobuf)
+14-b
+15-a
+16-b
+17-a
+18-d
+19-a
+20-b,e
+21-b,c
+22-a,c,d
+23-b
